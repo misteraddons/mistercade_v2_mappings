@@ -11,8 +11,5 @@ verbose = true
 ```
 After that, run *downloader* or *update_all* as usual. It will try to fetch the files from your newly created database. 
 
-## To Do
-Handle twin stick mappings (not currently available on V2)
-
 ## Free-play Mapping Repository
 If you want to try the `freeplay` mapping repository (start assigned to start and coin), go here: https://github.com/misteraddons/mistercade_v2_freeplay_mappings
