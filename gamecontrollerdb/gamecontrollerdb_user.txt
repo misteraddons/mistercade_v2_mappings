@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 2784 games in 240 unique mapping groups
+# 2785 games in 240 unique mapping groups
 # Versions: V2
 #
 # Button mapping: MiSTercade -> Xbox
@@ -142,6 +142,9 @@
 # 2-button (9 games: arkangc, arkangc2, arkanoid, arkanoidj, arkanoiduo, arkatayt, ...)
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:arka*,mistercore:arkbloc*,mistercore:arktayt2,platform:MiSTer
 
+# directions only (9 games: citycon, citycona, cruisin, dcon, ninjaw, ninjaw1, ...)
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:ninjaw*,mistercore:citycon*,mistercore:cruisin,mistercore:dcon,mistercore:sdgndmps,platform:MiSTer
+
 # 1-button (9 games: crackhea, housepty, mappy, mappyj, marpy, popeye, ...)
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,start:b9,back:b8,menuesc:b1,guide:b9,guide2:h0.4,mistercore:todruaga*,mistercore:mappy*,mistercore:crackhea,mistercore:housepty,mistercore:marpy,mistercore:popeye,platform:MiSTer
 
@@ -165,9 +168,6 @@
 
 # 2-button (8 games: astrofl, fantzn2, opaopa, opaopan, ridleofp, slapshtr, ...)
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:opaopa*,mistercore:astrofl,mistercore:fantzn2,mistercore:ridleofp,mistercore:slapshtr,mistercore:tetrisse,mistercore:transfrm,platform:MiSTer
-
-# directions only (8 games: citycon, citycona, cruisin, ninjaw, ninjaw1, ninjawj, ...)
-03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:ninjaw*,mistercore:citycon*,mistercore:cruisin,mistercore:sdgndmps,platform:MiSTer
 
 # 2-button (7 games: alexkidd, quartet, quartet2, quartet2a, quarteta, ryukyu, ...)
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b0,a:b1,lefttrigger:b11,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:quartet*,mistercore:ryukyu*,mistercore:alexkidd,platform:MiSTer
