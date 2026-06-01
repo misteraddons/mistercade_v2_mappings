@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 2786 games in 240 unique mapping groups
+# 2789 games in 243 unique mapping groups
 # Versions: V2
 #
 # Button mapping: MiSTercade -> Xbox
@@ -520,6 +520,9 @@
 # directions only (1 games: cleansweept)
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:cleansweept,platform:MiSTer
 
+# 1-button (1 games: complexx)
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b0,lefttrigger:b11,start:b9,back:b8,menuesc:b0,guide:b9,guide2:h0.4,mistercore:complexx,platform:MiSTer
+
 # 2-button (1 games: computer_space)
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b6,a:b3,start:b9,back:b8,menuok:b3,menuesc:b6,guide:b9,guide2:h0.4,mistercore:computer_space,platform:MiSTer
 
@@ -646,6 +649,9 @@
 # 2-button (1 games: rtypeleoj)
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b11,righttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:rtypeleoj,platform:MiSTer
 
+# directions only (1 games: sdungeon)
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:sdungeon,platform:MiSTer
+
 # 3-button (1 games: seganinj)
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:seganinj,platform:MiSTer
 
@@ -729,4 +735,7 @@
 
 # 1-button (1 games: wmatch)
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,lefttrigger:b11,start:b9,back:b8,menuesc:b1,guide:b9,guide2:h0.4,mistercore:wmatch,platform:MiSTer
+
+# directions only (1 games: zookeep)
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:zookeep,platform:MiSTer
 
