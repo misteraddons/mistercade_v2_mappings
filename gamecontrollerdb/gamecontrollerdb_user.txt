@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 2796 games in 244 unique mapping groups
+# 2797 games in 245 unique mapping groups
 # Versions: V2
 #
 # Button mapping: MiSTercade -> Xbox
@@ -588,6 +588,9 @@
 
 # 4-button (punches+kicks) (1 games: kchamp2p)
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b6,rightshoulder:b0,y:b2,lefttrigger:b11,start:b9,back:b8,menuok:b6,menuesc:b1,guide:b9,guide2:h0.4,mistercore:kchamp2p,platform:MiSTer
+
+# directions only (1 games: kram)
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:kram,platform:MiSTer
 
 # 4-button (punches+kicks) (1 games: kroozr)
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b0,a:b3,rightshoulder:b6,y:b1,start:b9,back:b8,menuok:b3,menuesc:b0,guide:b9,guide2:h0.4,mistercore:kroozr,platform:MiSTer
