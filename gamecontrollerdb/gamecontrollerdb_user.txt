@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 2792 games in 244 unique mapping groups
+# 2796 games in 244 unique mapping groups
 # Versions: V2
 #
 # Button mapping: MiSTercade -> Xbox
@@ -172,6 +172,9 @@
 # 2-button (7 games: alexkidd, quartet, quartet2, quartet2a, quarteta, ryukyu, ...)
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b0,a:b1,lefttrigger:b11,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:quartet*,mistercore:ryukyu*,mistercore:alexkidd,platform:MiSTer
 
+# directions only (7 games: bloodbro, bloodbroj, bloodbroja, bloodbrok, bloodbrou, chinagat, ...)
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:bloodbro*,mistercore:chinagat,mistercore:saiyugou,platform:MiSTer
+
 # 2-button (7 games: cosmccop, finalizra, finalizrb, jailbrek, manhatan, xsleenab, ...)
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:xsleenab*,mistercore:cosmccop,mistercore:finalizra,mistercore:finalizrb,mistercore:jailbrek,mistercore:manhatan,platform:MiSTer
 
@@ -291,9 +294,6 @@
 
 # 3-button (3 games: astyanax, astyanaxa, lordofk)
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:astyanax*,mistercore:lordofk,platform:MiSTer
-
-# directions only (3 games: bloodbroj, chinagat, saiyugou)
-03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:bloodbroj,mistercore:chinagat,mistercore:saiyugou,platform:MiSTer
 
 # 2-button (3 games: cameltry, cameltryj, cameltryu)
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b7,lefttrigger:b11,start:b9,back:b8,menuok:b7,menuesc:b1,guide:b9,guide2:h0.4,mistercore:cameltry*,platform:MiSTer
