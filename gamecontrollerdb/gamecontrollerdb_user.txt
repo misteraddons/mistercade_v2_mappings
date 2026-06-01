@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 2828 games in 248 unique mapping groups
+# 2829 games in 248 unique mapping groups
 # Versions: V2
 #
 # Button mapping: MiSTercade -> Xbox
@@ -319,6 +319,9 @@
 # 4-button (punches+kicks) (3 games: missile, missile1, missile2)
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,y:b3,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:missile*,platform:MiSTer
 
+# directions only (3 games: narc1, narc2, narc6)
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:narc1,mistercore:narc2,mistercore:narc6,platform:MiSTer
+
 # 6-button fighters (3 games: spyhunt, spyhuntp, turbotag)
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,y:b3,x:b2,leftshoulder:b7,back:b8,menuok:b0,menuesc:b1,guide2:h0.4,mistercore:spyhunt*,mistercore:turbotag,platform:MiSTer
 
@@ -456,9 +459,6 @@
 
 # 2-button (2 games: mkla1, mkla3)
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b2,a:b7,lefttrigger:b11,start:b9,back:b8,menuok:b7,menuesc:b2,guide:b9,guide2:h0.4,mistercore:mkla1,mistercore:mkla3,platform:MiSTer
-
-# directions only (2 games: narc2, narc6)
-03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:narc2,mistercore:narc6,platform:MiSTer
 
 # 2-button (2 games: qix, qix2)
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:qix*,platform:MiSTer
