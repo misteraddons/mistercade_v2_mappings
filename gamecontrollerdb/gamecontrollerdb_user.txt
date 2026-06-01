@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 2790 games in 244 unique mapping groups
+# 2791 games in 244 unique mapping groups
 # Versions: V2
 #
 # Button mapping: MiSTercade -> Xbox
@@ -382,6 +382,9 @@
 # 6-button fighters (2 games: berabohm, berabohmb)
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b3,a:b2,rightshoulder:b7,y:b1,x:b0,leftshoulder:b6,lefttrigger:b11,start:b9,back:b8,menuok:b2,menuesc:b3,guide:b9,guide2:h0.4,mistercore:berabohm*,platform:MiSTer
 
+# directions only (2 games: bloodbroj, chinagat)
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:bloodbroj,mistercore:chinagat,platform:MiSTer
+
 # 1-button (2 games: breakout, sbrkoutct)
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,start:b9,back:b8,menuesc:b1,guide:b9,guide2:h0.4,mistercore:breakout,mistercore:sbrkoutct,platform:MiSTer
 
@@ -501,9 +504,6 @@
 
 # directions only (1 games: blockade)
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,back:b8,guide2:h0.4,mistercore:blockade,platform:MiSTer
-
-# directions only (1 games: bloodbroj)
-03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:bloodbroj,platform:MiSTer
 
 # 2-button (1 games: bublboblultra)
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b0,a:b1,lefttrigger:b11,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:bublboblultra,platform:MiSTer
