@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 3004 games in 249 unique mapping groups
+# 3014 games in 249 unique mapping groups
 # Versions: V2
 #
 # Button mapping: MiSTercade -> Xbox
@@ -216,6 +216,9 @@
 
 # 2-button: bobl*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:bobl*,platform:MiSTer
+
+# 2-button: capt*
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:capt*,platform:MiSTer
 
 # 1-button: chtp*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,lefttrigger:b11,start:b9,back:b8,menuesc:b1,guide:b9,guide2:h0.4,mistercore:chtp*,platform:MiSTer
@@ -1248,6 +1251,9 @@
 
 # 2-button: S.O.S.*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,start:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:S.O.S.*,platform:MiSTer
+
+# 2-button: sagaia
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:sagaia,platform:MiSTer
 
 # 6-button fighters: Saturn
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b3,a:b2,rightshoulder:b7,y:b1,x:b0,leftshoulder:b6,start:b9,menuok:b2,menuesc:b3,guide:b9,guide2:h0.4,mistercore:Saturn,platform:MiSTer
@@ -2466,9 +2472,6 @@
 
 # 2-button: cameltry*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b7,lefttrigger:b11,start:b9,back:b8,menuok:b7,menuesc:b1,guide:b9,guide2:h0.4,mistercore:cameltry*,platform:MiSTer
-
-# 2-button: captcomm*
-03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:captcomm*,platform:MiSTer
 
 # 1-button: carnival
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,lefttrigger:b11,start:b9,back:b8,menuesc:b1,guide:b9,guide2:h0.4,mistercore:carnival,platform:MiSTer
@@ -3774,6 +3777,9 @@
 
 # 1-button: warofbug*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,start:b9,back:b8,menuesc:b1,guide:b9,guide2:h0.4,mistercore:warofbug*,platform:MiSTer
+
+# 2-button: warriorb
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:warriorb,platform:MiSTer
 
 # 2-button: waterski
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:waterski,platform:MiSTer
