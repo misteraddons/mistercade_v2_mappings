@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 3027 games in 250 unique mapping groups
+# 3028 games in 250 unique mapping groups
 # Versions: V2
 #
 # Button mapping: MiSTercade -> Xbox
@@ -558,6 +558,9 @@
 
 # 1-button: invad*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,start:b9,back:b8,menuesc:b1,guide:b9,guide2:h0.4,mistercore:invad*,platform:MiSTer
+
+# 4-button (punches+kicks): jojon
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,y:b3,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:jojon,platform:MiSTer
 
 # 1-button: joust
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,lefttrigger:b11,start:b9,back:b8,menuesc:b1,guide:b9,guide2:h0.4,mistercore:joust,platform:MiSTer
