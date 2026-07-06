@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 3088 games in 253 unique mapping groups
+# 3089 games in 254 unique mapping groups
 # Versions: V2
 #
 # Button mapping: MiSTercade -> Xbox
@@ -3303,6 +3303,9 @@
 
 # 3-button: parodius*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:parodius*,platform:MiSTer
+
+# 1-button: pballoon
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,menuesc:b1,guide2:h0.4,mistercore:pballoon,platform:MiSTer
 
 # 4-button (punches+kicks): pblbeach
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,y:b3,lefttrigger:b11,righttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:pblbeach,platform:MiSTer
