@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 3089 games in 254 unique mapping groups
+# 3090 games in 254 unique mapping groups
 # Versions: V2
 #
 # Button mapping: MiSTercade -> Xbox
@@ -1293,6 +1293,9 @@
 
 # 2-button: sagaia
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:sagaia,platform:MiSTer
+
+# 1-button: sasuke
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,menuesc:b1,guide2:h0.4,mistercore:sasuke,platform:MiSTer
 
 # 6-button fighters: Saturn
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b3,a:b2,rightshoulder:b7,y:b1,x:b0,leftshoulder:b6,start:b9,menuok:b2,menuesc:b3,guide:b9,guide2:h0.4,mistercore:Saturn,platform:MiSTer
