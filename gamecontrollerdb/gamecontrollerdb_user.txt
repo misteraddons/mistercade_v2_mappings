@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 3090 games in 254 unique mapping groups
+# 3093 games in 254 unique mapping groups
 # Versions: V2
 #
 # Button mapping: MiSTercade -> Xbox
@@ -138,6 +138,9 @@
 
 # 6-button fighters: PSX*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b3,a:b6,rightshoulder:b0,y:b1,x:b2,leftshoulder:b7,start:b9,back:b8,menuok:b6,menuesc:b3,guide:b9,guide2:h0.4,mistercore:PSX*,platform:MiSTer
+
+# 4-button (punches+kicks): puz*
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,y:b3,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:puz*,platform:MiSTer
 
 # 4-button (punches+kicks): qad*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,y:b3,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:qad*,platform:MiSTer
