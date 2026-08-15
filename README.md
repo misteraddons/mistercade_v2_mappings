@@ -1,17 +1,7 @@
-# MiSTercade Mapping Updater
-This database can be integrated in MiSTer FPGA by editing the `downloader.ini` file at the root of the SD. 
+# MiSTercade mapping database
 
-This mapping has Down + Start hardcoded for the OSD menu combo. If you prefer not to use Down + Start, you'll want to avoid using the preset mapping repositories. You can always copy and paste mappings, or create the mappings by hand.
+Generated per-game controller mappings consumed by MiSTer Downloader.
 
-For tournaments, please manage your mappings manually (either copy and paste the indiviaul mapping files, or manually map games). This will avoid players accidentally pressing Down + Start during gameplay. Thanks!
+[Choose a profile and install MiSTercade mappings](https://misteraddons-docs.pages.dev/setup/mistercade-mappings/)
 
-## How to Integrate the Mappings into MiSTer Downloader:
-To integrate it in a MiSTer device, add the following section to the end of to the file `downloader.ini` that should be placed at the root of the SD (if it doesn't exist, you may create it for this purpose):
-```ini
-[misteraddons/mistercade_v2_mappings]
-db_url = https://raw.githubusercontent.com/misteraddons/mistercade_v2_mappings/db/db.json.zip
-```
-After that, run *downloader* or *update_all* as usual. It will try to fetch the files from your newly created database. 
-
-## Free-play Mapping Repository
-If you want to try the `freeplay` mapping repository (start assigned to start and coin), go here: https://github.com/misteraddons/mistercade_v2_freeplay_mappings
+This repository is a published data source. Most users should use the documentation page above instead of browsing or copying files manually.
