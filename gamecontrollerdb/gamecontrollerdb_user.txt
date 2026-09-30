@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 4708 games in 396 unique mapping groups
+# 4716 games in 397 unique mapping groups
 # Versions: V2
 #
 # Button mapping: MiSTercade -> Xbox
@@ -154,8 +154,8 @@
 # 4-button (punches+kicks): qad*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:qad*,platform:MiSTer
 
-# 2-button: qix*
-03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b0,y:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:qix*,platform:MiSTer
+# 2-button: qix
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b0,y:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:qix,platform:MiSTer
 
 # 3-button: sbm*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:sbm*,platform:MiSTer
@@ -456,6 +456,18 @@
 
 # 3-button: puyo
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,lefttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:puyo,platform:MiSTer
+
+# 2-button: qix2
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b0,y:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:qix2,platform:MiSTer
+
+# 3-button: qixa
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:qixa,platform:MiSTer
+
+# 3-button: qixb
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:qixb,platform:MiSTer
+
+# 3-button: qixo
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:qixo,platform:MiSTer
 
 # 6-button fighters: radm*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:radm*,platform:MiSTer
@@ -819,6 +831,9 @@
 
 # 2-button: Konek*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,start:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:Konek*,platform:MiSTer
+
+# 3-button: krama
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:krama,platform:MiSTer
 
 # 4-button (punches+kicks): krull
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b7,b:b0,x:b3,y:b1,lefttrigger:b10,start:b9,back:b8,menuok:b7,menuesc:b0,guide:b9,guide2:h0.4,mistercore:krull,platform:MiSTer
@@ -5349,6 +5364,9 @@
 
 # 6-button fighters: primglex
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:primglex,platform:MiSTer
+
+# 4-button (punches+kicks): primrage
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b2,y:b3,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:primrage,platform:MiSTer
 
 # 2-button: prmrsocr*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:prmrsocr*,platform:MiSTer
