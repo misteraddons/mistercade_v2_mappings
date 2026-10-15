@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 4995 games in 419 unique mapping groups
+# 5005 games in 424 unique mapping groups
 # Versions: V2
 #
 # Button mapping: MiSTercade -> Xbox
@@ -1996,6 +1996,9 @@
 # 6-button fighters: saturn
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b2,b:b3,x:b6,y:b0,leftshoulder:b1,rightshoulder:b7,start:b9,menuok:b2,menuesc:b3,guide:b9,guide2:h0.4,mistercore:saturn,platform:MiSTer
 
+# 2-button: sb2003
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,lefttrigger:b11,righttrigger:b10,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:sb2003,platform:MiSTer
+
 # 2-button: sbbros
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:sbbros,platform:MiSTer
 
@@ -2049,6 +2052,9 @@
 
 # 2-button: spool3*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:spool3*,platform:MiSTer
+
+# 7-button: spotty
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b4,righttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:spotty,platform:MiSTer
 
 # directions only: sqbert
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:sqbert,platform:MiSTer
@@ -2152,6 +2158,9 @@
 # 2-button: trstar
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b2,lefttrigger:b10,righttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b2,guide:b9,guide2:h0.4,mistercore:trstar,platform:MiSTer
 
+# 6-button fighters: truckk
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b11,righttrigger:b10,back:b8,menuok:b0,menuesc:b1,guide2:h0.4,mistercore:truckk,platform:MiSTer
+
 # 3-button: tshoot
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:tshoot,platform:MiSTer
 
@@ -2163,6 +2172,9 @@
 
 # 2-button: uccops*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:uccops*,platform:MiSTer
+
+# 4-button (punches+kicks): ujlnow
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b3,b:b2,x:b1,y:b0,lefttrigger:b11,righttrigger:b10,start:b9,back:b8,menuok:b3,menuesc:b2,guide:b9,guide2:h0.4,mistercore:ujlnow,platform:MiSTer
 
 # 1-button: ultra2
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:ultra2,platform:MiSTer
@@ -2805,6 +2817,9 @@
 
 # 2-button: gunball
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:gunball,platform:MiSTer
+
+# 1-button: gunbarl
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:gunbarl,platform:MiSTer
 
 # 3-button: gunbird
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:gunbird,platform:MiSTer
@@ -3675,6 +3690,9 @@
 
 # directions only: totcarn
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:totcarn,platform:MiSTer
+
+# 6-button fighters: toukon3
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:toukon3,platform:MiSTer
 
 # 4-button (punches+kicks): toutrun*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:toutrun*,platform:MiSTer
@@ -4876,6 +4894,9 @@
 # 2-button: geostorm
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:geostorm,platform:MiSTer
 
+# 3-button: ggreats2
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,lefttrigger:b11,righttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:ggreats2,platform:MiSTer
+
 # 2-button: gigandes*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:gigandes*,platform:MiSTer
 
@@ -5761,8 +5782,8 @@
 # 6-button fighters: psyforce*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:psyforce*,platform:MiSTer
 
-# 6-button fighters: ptblank2*
-03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:ptblank2*,platform:MiSTer
+# 1-button: ptblank2
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:ptblank2,platform:MiSTer
 
 # 1-button: ptblanka
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,lefttrigger:b10,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:ptblanka,platform:MiSTer
@@ -6466,6 +6487,9 @@
 # 5-button: techbowl
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,lefttrigger:b11,righttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:techbowl,platform:MiSTer
 
+# 3-button: technodr
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,lefttrigger:b11,righttrigger:b10,back:b8,menuok:b0,menuesc:b1,guide2:h0.4,mistercore:technodr,platform:MiSTer
+
 # 6-button fighters: techromn*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:techromn*,platform:MiSTer
 
@@ -7150,6 +7174,15 @@
 # 3-button: progearud
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b7,b:b1,x:b0,lefttrigger:b11,start:b9,back:b8,menuok:b7,menuesc:b1,guide:b9,guide2:h0.4,mistercore:progearud,platform:MiSTer
 
+# 6-button fighters: ptblank2a
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:ptblank2a,platform:MiSTer
+
+# 6-button fighters: ptblank2b
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:ptblank2b,platform:MiSTer
+
+# 6-button fighters: ptblank2c
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:ptblank2c,platform:MiSTer
+
 # 2-button: raiden2au
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:raiden2au,platform:MiSTer
 
@@ -7365,6 +7398,9 @@
 
 # 3-button: outzoneh_v
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:outzoneh_v,platform:MiSTer
+
+# 6-button fighters: ptblank2ua
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:ptblank2ua,platform:MiSTer
 
 # 2-button: raidendxch
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:raidendxch,platform:MiSTer
