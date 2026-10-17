@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 5021 games in 428 unique mapping groups
+# 5023 games in 428 unique mapping groups
 # Versions: V2
 #
 # Button mapping: MiSTercade -> Xbox
