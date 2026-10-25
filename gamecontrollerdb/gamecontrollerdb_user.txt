@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 5279 games in 480 unique mapping groups
+# 5321 games in 485 unique mapping groups
 # Versions: V2
 #
 # Button mapping: MiSTercade -> Xbox
@@ -99,6 +99,9 @@
 
 # 3-button: gsl*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,lefttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:gsl*,platform:MiSTer
+
+# 1-button: gtg
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,lefttrigger:b10,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:gtg,platform:MiSTer
 
 # 1-button: hid*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,lefttrigger:b11,righttrigger:b10,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:hid*,platform:MiSTer
@@ -351,6 +354,12 @@
 
 # 2-button: gorf
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:gorf,platform:MiSTer
+
+# 2-button: gtg2
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:gtg2,platform:MiSTer
+
+# 2-button: gtgt*
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:gtgt*,platform:MiSTer
 
 # 2-button: gtmr
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,lefttrigger:b11,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:gtmr,platform:MiSTer
@@ -852,6 +861,12 @@
 
 # 2-button: growl*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:growl*,platform:MiSTer
+
+# 1-button: gtg2j
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,lefttrigger:b10,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:gtg2j,platform:MiSTer
+
+# 2-button: gtg2t
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:gtg2t,platform:MiSTer
 
 # 3-button: gutsn
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,lefttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:gutsn,platform:MiSTer
@@ -1423,6 +1438,9 @@
 # 1-button: ckongo
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:ckongo,platform:MiSTer
 
+# 2-button: clbowl
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:clbowl,platform:MiSTer
+
 # 1-button: clowns
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:clowns,platform:MiSTer
 
@@ -1675,6 +1693,9 @@
 # 3-button: gmahou
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b7,b:b1,x:b0,lefttrigger:b11,start:b9,back:b8,menuok:b7,menuesc:b1,guide:b9,guide2:h0.4,mistercore:gmahou,platform:MiSTer
 
+# 1-button: gpgolf*
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,lefttrigger:b10,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:gpgolf*,platform:MiSTer
+
 # 3-button: grally
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,lefttrigger:b10,righttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:grally,platform:MiSTer
 
@@ -1692,6 +1713,9 @@
 
 # 2-button: gryzor*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:gryzor*,platform:MiSTer
+
+# 1-button: gtgj31
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,lefttrigger:b10,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:gtgj31,platform:MiSTer
 
 # 2-button: gussun
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:gussun,platform:MiSTer
@@ -1845,9 +1869,6 @@
 
 # 1-button: millip*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:millip*,platform:MiSTer
-
-# 5-button: mkprot*
-03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b2,x:b1,y:b3,leftshoulder:b7,lefttrigger:b10,righttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b2,guide:b9,guide2:h0.4,mistercore:mkprot*,platform:MiSTer
 
 # 4-button (punches+kicks): mmpork*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b7,x:b2,y:b3,lefttrigger:b10,start:b9,back:b8,menuok:b1,menuesc:b7,guide:b9,guide2:h0.4,mistercore:mmpork*,platform:MiSTer
@@ -2656,6 +2677,9 @@
 # 1-button: candory
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:candory,platform:MiSTer
 
+# 2-button: capbowl*
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:capbowl*,platform:MiSTer
+
 # 2-button: capitol
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:capitol,platform:MiSTer
 
@@ -2730,6 +2754,9 @@
 
 # 2-button: cscrtry*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:cscrtry*,platform:MiSTer
+
+# 2-button: csilver*
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b10,righttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:csilver*,platform:MiSTer
 
 # 2-button: cskater
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:cskater,platform:MiSTer
@@ -3256,6 +3283,15 @@
 # 5-button: mknifty*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b2,x:b1,y:b3,leftshoulder:b7,lefttrigger:b10,righttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b2,guide:b9,guide2:h0.4,mistercore:mknifty*,platform:MiSTer
 
+# 5-button: mkprot4
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b2,x:b1,y:b3,leftshoulder:b6,lefttrigger:b10,righttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b2,guide:b9,guide2:h0.4,mistercore:mkprot4,platform:MiSTer
+
+# 5-button: mkprot8
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b2,x:b1,y:b3,leftshoulder:b5,lefttrigger:b10,righttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b2,guide:b9,guide2:h0.4,mistercore:mkprot8,platform:MiSTer
+
+# 5-button: mkprot9
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b2,x:b1,y:b3,leftshoulder:b6,lefttrigger:b10,righttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b2,guide:b9,guide2:h0.4,mistercore:mkprot9,platform:MiSTer
+
 # 1-button: mmatrix*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:mmatrix*,platform:MiSTer
 
@@ -3432,6 +3468,9 @@
 
 # 3-button: pigskin
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b7,b:b1,x:b0,lefttrigger:b10,start:b9,back:b8,menuok:b7,menuesc:b1,guide:b9,guide2:h0.4,mistercore:pigskin,platform:MiSTer
+
+# 3-button: pirates*
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,lefttrigger:b11,righttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:pirates*,platform:MiSTer
 
 # 1-button: pkunwar
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:pkunwar,platform:MiSTer
@@ -3810,6 +3849,9 @@
 
 # 1-button: stompin*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,lefttrigger:b10,righttrigger:b11,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:stompin*,platform:MiSTer
+
+# 2-button: stratab*
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:stratab*,platform:MiSTer
 
 # 3-button: stratgy*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:stratgy*,platform:MiSTer
@@ -4192,6 +4234,9 @@
 # 2-button: arktayt2
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:arktayt2,platform:MiSTer
 
+# 4-button (punches+kicks): arlingtn*
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,lefttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:arlingtn*,platform:MiSTer
+
 # 2-button: armorcar*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:armorcar*,platform:MiSTer
 
@@ -4405,8 +4450,14 @@
 # 2-button: bouldash*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:bouldash*,platform:MiSTer
 
+# 2-button: bowlrama
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:bowlrama,platform:MiSTer
+
 # 1-button: breakout
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:breakout,platform:MiSTer
+
+# 2-button: breywood
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b10,righttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:breywood,platform:MiSTer
 
 # 2-button: brutforc
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:brutforc,platform:MiSTer
@@ -4734,6 +4785,9 @@
 
 # 1-button: danceyes*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:danceyes*,platform:MiSTer
+
+# 3-button: dangerex
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:dangerex,platform:MiSTer
 
 # 2-button: dangseed
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:dangseed,platform:MiSTer
@@ -5284,6 +5338,9 @@
 # 1-button: gteikoku*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:gteikoku*,platform:MiSTer
 
+# 5-button: guardian
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b2,x:b7,y:b1,leftshoulder:b3,start:b9,back:b8,menuok:b0,menuesc:b2,guide:b9,guide2:h0.4,mistercore:guardian,platform:MiSTer
+
 # 2-button: gulfwar2*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:gulfwar2*,platform:MiSTer
 
@@ -5415,6 +5472,9 @@
 
 # 6-button fighters: hrthouse
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b11,righttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:hrthouse,platform:MiSTer
+
+# 2-button: hstennis*
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b10,back:b8,menuok:b0,menuesc:b1,guide2:h0.4,mistercore:hstennis*,platform:MiSTer
 
 # 1-button: hunchbak
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,start:b9,back:b8,menuok:b1,guide:b9,guide2:h0.4,mistercore:hunchbak,platform:MiSTer
@@ -5774,7 +5834,7 @@
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b2,x:b7,y:b1,leftshoulder:b3,rightshoulder:b6,start:b9,back:b8,menuok:b0,menuesc:b2,guide:b9,guide2:h0.4,mistercore:mk2_wolf,platform:MiSTer
 
 # 5-button: mkyturbo*
-03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b2,x:b1,y:b3,leftshoulder:b7,lefttrigger:b10,righttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b2,guide:b9,guide2:h0.4,mistercore:mkyturbo*,platform:MiSTer
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b2,x:b1,y:b3,leftshoulder:b6,lefttrigger:b10,righttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b2,guide:b9,guide2:h0.4,mistercore:mkyturbo*,platform:MiSTer
 
 # 3-button: mmancp2u*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:mmancp2u*,platform:MiSTer
@@ -5874,6 +5934,9 @@
 
 # 3-button: nebulray*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,lefttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:nebulray*,platform:MiSTer
+
+# 6-button fighters: neckneck
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:neckneck,platform:MiSTer
 
 # 1-button: neobattl
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,lefttrigger:b11,righttrigger:b10,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:neobattl,platform:MiSTer
@@ -6370,6 +6433,9 @@
 # 2-button: ridleofp
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:ridleofp,platform:MiSTer
 
+# 2-button: rimrockn*
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:rimrockn*,platform:MiSTer
+
 # 3-button: ringking
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:ringking,platform:MiSTer
 
@@ -6390,6 +6456,9 @@
 
 # 1-button: roadblst*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:roadblst*,platform:MiSTer
+
+# 3-button: roadriot*
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:roadriot*,platform:MiSTer
 
 # 1-button: roadrunn*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:roadrunn*,platform:MiSTer
@@ -6528,6 +6597,9 @@
 
 # 6-button fighters: sfyumeji
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:sfyumeji,platform:MiSTer
+
+# 2-button: shackled
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b10,righttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:shackled,platform:MiSTer
 
 # 2-button: shadowld
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:shadowld,platform:MiSTer
