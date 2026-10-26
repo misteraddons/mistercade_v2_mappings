@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 5369 games in 495 unique mapping groups
+# 5389 games in 496 unique mapping groups
 # Versions: V2
 #
 # Button mapping: MiSTercade -> Xbox
@@ -66,6 +66,9 @@
 
 # 2-button: bil*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,start:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:bil*,platform:MiSTer
+
+# 8-button: bmc*
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b4,righttrigger:b5,leftstick:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:bmc*,platform:MiSTer
 
 # 1-button: bnj*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:bnj*,platform:MiSTer
@@ -738,6 +741,9 @@
 
 # 2-button: block
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:block,platform:MiSTer
+
+# 8-button: bmdct
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b4,righttrigger:b5,leftstick:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:bmdct,platform:MiSTer
 
 # 1-button: bombj*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:bombj*,platform:MiSTer
@@ -2635,6 +2641,9 @@
 # 1-button: blasted
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,lefttrigger:b10,back:b8,menuok:b0,guide2:h0.4,mistercore:blasted,platform:MiSTer
 
+# 2-button: blaster*
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:blaster*,platform:MiSTer
+
 # 1-button: blkhole
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:blkhole,platform:MiSTer
 
@@ -2643,6 +2652,9 @@
 
 # 2-button: bmaster
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:bmaster,platform:MiSTer
+
+# 8-button: bmfinal
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b4,righttrigger:b5,leftstick:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:bmfinal,platform:MiSTer
 
 # directions only: bnstars
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,righttrigger:b10,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:bnstars,platform:MiSTer
@@ -2838,6 +2850,9 @@
 
 # 3-button: darkadv
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,x:b7,lefttrigger:b11,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:darkadv,platform:MiSTer
+
+# 4-button (punches+kicks): daytona*
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b3,y:b2,lefttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:daytona*,platform:MiSTer
 
 # 3-button: dbzvrvs
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,lefttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:dbzvrvs,platform:MiSTer
@@ -4455,6 +4470,27 @@
 
 # 1-button: blueshrk
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:blueshrk,platform:MiSTer
+
+# 8-button: bm1stmix
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b4,righttrigger:b5,leftstick:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:bm1stmix,platform:MiSTer
+
+# 8-button: bm2ndmix
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b4,righttrigger:b5,leftstick:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:bm2ndmix,platform:MiSTer
+
+# 8-button: bm3rdmix
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b4,righttrigger:b5,leftstick:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:bm3rdmix,platform:MiSTer
+
+# 8-button: bm4thmix
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b4,righttrigger:b5,leftstick:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:bm4thmix,platform:MiSTer
+
+# 8-button: bm5thmix
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b4,righttrigger:b5,leftstick:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:bm5thmix,platform:MiSTer
+
+# 8-button: bm6thmix
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b4,righttrigger:b5,leftstick:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:bm6thmix,platform:MiSTer
+
+# 8-button: bm7thmix
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,x:b7,y:b2,leftshoulder:b3,rightshoulder:b6,lefttrigger:b4,righttrigger:b5,leftstick:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:bm7thmix,platform:MiSTer
 
 # 1-button: bmbjckgr
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,guide:b9,guide2:h0.4,mistercore:bmbjckgr,platform:MiSTer
@@ -8229,6 +8265,9 @@
 
 # 6-button fighters: mkla4_blahm1d
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b2,x:b7,y:b1,leftshoulder:b3,rightshoulder:b6,start:b9,back:b8,menuok:b0,menuesc:b2,guide:b9,guide2:h0.4,mistercore:mkla4_blahm1d,platform:MiSTer
+
+# 2-button: term2_blahm1d
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b1,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:term2_blahm1d,platform:MiSTer
 
 # 2-button: computer_space
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b7,b:b2,start:b9,back:b8,menuok:b7,menuesc:b2,guide:b9,guide2:h0.4,mistercore:computer_space,platform:MiSTer
